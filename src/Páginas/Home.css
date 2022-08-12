@@ -11,7 +11,6 @@
 }
 
 .appexe{
-    border-bottom: 2px solid black;
     background-color: #2a3999;
     color: white;
     font-size: 18px;
@@ -19,7 +18,6 @@
 
 .btcontainers{
     background-color: #bdbcbc;
-    border-bottom: 2px solid black;
 }
 
 .products{
@@ -34,7 +32,7 @@
     font-size: 16px;
     background-color: #acaaaa;
 }
-.botao :hover{
+.botao:hover{
     background-color: #394dcd;
     color: white;
 }
@@ -45,10 +43,18 @@
     text-align: center;
 }
 
+.About:hover{
+    color: white;
+}
+
 .faq{
     text-decoration: none;
     color: black;
     text-align: center;
+}
+
+.faq:hover{
+    color: white;
 }
 
 .home{
@@ -57,10 +63,18 @@
     text-align: center;
 }
 
+.home:hover{
+    color: white;
+}
+
 .Shirts{
     text-decoration: none;
     color: black;
     text-align: center;
+}
+
+.Shirts:hover{
+    color: white;
 }
 
 .moletons{
@@ -69,8 +83,16 @@
     text-align: center;
 }
 
+.moletons:hover{
+    color: white;
+}
+
 .hats{
     text-decoration: none;
     color: black;
     text-align: center;
+}
+
+.hats:hover{
+    color: white;
 }
